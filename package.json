@@ -1,0 +1,26 @@
+{
+  "name": "sonka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evgeny Reznichenko \"kusakyky@gmail.com\"",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.8.0",
+    "grunt-webpack": "^1.0.8",
+    "traceur": "0.0.72",
+    "traceur-loader": "^0.6.1",
+    "webpack": "^1.4.9",
+    "webpack-dev-server": "^1.6.5"
+  },
+  "dependencies": {
+    "css-loader": "^0.9.0",
+    "less": "^1.7.5",
+    "less-loader": "^0.7.7",
+    "style-loader": "^0.8.1"
+  }
+}
